@@ -7,7 +7,7 @@
       <div class="flex items-center">
         <div class="w-10 overflow-hidden rounded-full mr-2">
           <img
-            :src="'/src/assets/img/' + targetChat.avatar + '.jpg'"
+            :src="targetChat.avatar"
             class="w object-contain"
             alt=""
           />

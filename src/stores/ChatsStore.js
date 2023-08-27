@@ -9,7 +9,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 0,
         fullName: "khalid",
-        avatar: "avatar_1",
+        avatar: "https://i.pinimg.com/originals/58/5d/b5/585db50304ef8e8a837e9f974d3564d8.jpg",
         show: true,
         archived: false,
         blocked: false,
@@ -59,7 +59,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 1,
         fullName: "Marck Zuck",
-        avatar: "avatar_2",
+        avatar: "https://i.pinimg.com/originals/b9/e0/e3/b9e0e30ac1ec95077b7e1d0abd250e5d.png",
         show: true,
         archived: false,
         blocked: false,
@@ -89,7 +89,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 2,
         fullName: "Zuck",
-        avatar: "avatar_3",
+        avatar: "https://i.pinimg.com/originals/e2/8a/7c/e28a7cbea1d5eee98a4246cceeebd3da.jpg",
         show: true,
         archived: false,
         blocked: false,
@@ -119,7 +119,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 3,
         fullName: "Marbella",
-        avatar: "avatar_4",
+        avatar: "https://i.pinimg.com/originals/b2/14/d3/b214d3e3a4dabd95686baecf7a268583.jpg",
         show: true,
         archived: false,
         blocked: false,
@@ -149,7 +149,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 4,
         fullName: "kylie",
-        avatar: "avatar_5",
+        avatar: "https://i.pinimg.com/originals/d7/b6/db/d7b6dbf3427ffacc15bb435c6c7ad413.jpg",
         show: true,
         archived: false,
         blocked: false,
@@ -179,7 +179,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 5,
         fullName: "tony",
-        avatar: "avatar_6",
+        avatar: "https://i.pinimg.com/originals/b9/e0/e3/b9e0e30ac1ec95077b7e1d0abd250e5d.png",
         show: true,
         archived: false,
         blocked: false,
@@ -208,8 +208,8 @@ export const useChatsStore = defineStore("chats", {
       },
       {
         id: 6,
-        fullName: "karim",
-        avatar: "avatar_7",
+        fullName: "zineb",
+        avatar: "https://i.pinimg.com/originals/54/8a/65/548a659c2b06a877516d3c998f5b0939.png",
         show: true,
         archived: false,
         blocked: false,
@@ -239,7 +239,7 @@ export const useChatsStore = defineStore("chats", {
       {
         id: 7,
         fullName: "john",
-        avatar: "avatar_4",
+        avatar: "https://i.pinimg.com/originals/cb/80/99/cb80993dfe4c5a1dd5ee19f3a6c9284e.jpg",
         show: true,
         archived: false,
         blocked: false,

@@ -10,7 +10,7 @@
         <div class="flex items-center justify-center w-[70px] ml-2 mr-2">
           <div class="w-12 overflow-hidden rounded-full">
             <img
-              :src="'/src/assets/img/' + contact.avatar + '.jpg'"
+              :src="contact.avatar"
               class="w object-contain"
               alt="Contact"
             />
